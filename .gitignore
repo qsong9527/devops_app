@@ -1,4 +1,4 @@
 .idea/*
 devops_demo_app.iml
-out/*
+build/target_app/*
 target/*
