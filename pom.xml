@@ -43,6 +43,8 @@
                             <build>
                                 <dockerFileDir>${project.basedir}/build</dockerFileDir>
                             </build>
+                            <!--TODO: Add run docker image phase -->
+                            <!--TODO: Add push docker image phases -->
                         </image>
                     </images>
                 </configuration>
